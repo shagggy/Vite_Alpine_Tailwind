@@ -1,0 +1,23 @@
+{
+  "name": "vite-alpine-tailwind",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.7",
+    "postcss": "^8.4.14",
+    "tailwindcss": "^3.1.4",
+    "typescript": "^4.5.4",
+    "vite": "^2.9.9"
+  },
+  "dependencies": {
+    "@types/three": "^0.141.0",
+    "alpinejs": "^3.10.2",
+    "gsap": "^3.10.4",
+    "three": "^0.142.0"
+  }
+}
